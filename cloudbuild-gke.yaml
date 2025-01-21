@@ -20,3 +20,5 @@ substitutions:
   _PROJECT_ID : gcp-devops-448206
   _CINAME : gke-image
   _VERSION : v1.0
+options:
+   logging: CLOUD_LOGGING_ONLY
